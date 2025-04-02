@@ -3,3 +3,5 @@
 
 ### Descripción: 
 Se implementan Hooks para gestionar estado, efectos secundarios y manejar errores en el sistema hospitalario. Se integran los Hooks de estado y efecto para interactuar con los datos del hospital. Además, se desarrolla un Hook personalizado y se aplican estrategias para la detección y manejo de errores en la aplicación React.
+
+- Se implementa Hooks en los componentes: AuthContext.jsx; Dashboard.jsx y LoginPage.jsx
